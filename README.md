@@ -1,0 +1,1 @@
+FreqPhase-Mamba (FPM) is a frequency–phase coupled segmentation architecture integrating input-driven multi-band frequency priors, semantic-aware phase modulation, and a Mamba-based decoder. FPM is backbone-agnostic and can be instantiated on U-Net or SAM2, achieving structure-preserving medical image segmentation.
